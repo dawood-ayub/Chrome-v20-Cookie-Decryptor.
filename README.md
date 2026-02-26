@@ -30,9 +30,5 @@ Chrome's v20 encryption adds a layer that requires the `SYSTEM` account to initi
 - **Python 3.10+**
 - `decrypt_key.exe` must be present in the root directory (compile `decrypt_key.py` first).
 
-### Installation
-1. **Clone the repository**:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/chrome-v20-cookie-decryptor.git](https://github.com/YOUR_USERNAME/chrome-v20-cookie-decryptor.git)
-   cd chrome-v20-cookie-decryptor
+
 
